@@ -1,2 +1,2 @@
 # R_Testing
-A repository taht will be linked with R studio
+A repository that will be linked with R studio
